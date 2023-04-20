@@ -15,5 +15,5 @@ u.info --> The number of users, items, and ratings in the u data set.
 u.item --> Information about the items (movies); this is a tab separated list of movie id | movie title | release date | video release date | IMDb URL | unknown | Action | Adventure | Animation | Children's | Comedy | Crime | Documentary | Drama | Fantasy | Film-Noir | Horror | Musical | Mystery | Romance | Sci-Fi | Thriller | War | Western |
 
 # Project references: #
-https://github.com/rposhala/Recommender-System-on-MovieLens-dataset
-https://github.com/PacktPublishing/Hands-On-Recommendation-Systems-with-Python
+* https://github.com/rposhala/Recommender-System-on-MovieLens-dataset
+* https://github.com/PacktPublishing/Hands-On-Recommendation-Systems-with-Python
